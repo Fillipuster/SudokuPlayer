@@ -1,0 +1,34 @@
+C:\Users\Jonas Philbert\source\repos\SudokuPlayer\SudokuPlayer\bin\Debug\SudokuPlayer.exe.config
+C:\Users\Jonas Philbert\source\repos\SudokuPlayer\SudokuPlayer\bin\Debug\SudokuPlayer.exe
+C:\Users\Jonas Philbert\source\repos\SudokuPlayer\SudokuPlayer\bin\Debug\SudokuPlayer.pdb
+C:\Users\Jonas Philbert\source\repos\SudokuPlayer\SudokuPlayer\obj\Debug\SudokuPlayer.csprojAssemblyReference.cache
+C:\Users\Jonas Philbert\source\repos\SudokuPlayer\SudokuPlayer\obj\Debug\MainWindow.g.cs
+C:\Users\Jonas Philbert\source\repos\SudokuPlayer\SudokuPlayer\obj\Debug\App.g.cs
+C:\Users\Jonas Philbert\source\repos\SudokuPlayer\SudokuPlayer\obj\Debug\SudokuPlayer_MarkupCompile.cache
+C:\Users\Jonas Philbert\source\repos\SudokuPlayer\SudokuPlayer\obj\Debug\SudokuPlayer_MarkupCompile.lref
+C:\Users\Jonas Philbert\source\repos\SudokuPlayer\SudokuPlayer\obj\Debug\MainWindow.baml
+C:\Users\Jonas Philbert\source\repos\SudokuPlayer\SudokuPlayer\obj\Debug\SudokuPlayer.g.resources
+C:\Users\Jonas Philbert\source\repos\SudokuPlayer\SudokuPlayer\obj\Debug\SudokuPlayer.Properties.Resources.resources
+C:\Users\Jonas Philbert\source\repos\SudokuPlayer\SudokuPlayer\obj\Debug\SudokuPlayer.csproj.GenerateResource.cache
+C:\Users\Jonas Philbert\source\repos\SudokuPlayer\SudokuPlayer\obj\Debug\SudokuPlayer.csproj.CoreCompileInputs.cache
+C:\Users\Jonas Philbert\source\repos\SudokuPlayer\SudokuPlayer\obj\Debug\SudokuPlayer.exe
+C:\Users\Jonas Philbert\source\repos\SudokuPlayer\SudokuPlayer\obj\Debug\SudokuPlayer.pdb
+C:\Git\dmu4-csharp\SudokuPlayer\SudokuPlayer\bin\Debug\SudokuPlayer.exe.config
+C:\Git\dmu4-csharp\SudokuPlayer\SudokuPlayer\bin\Debug\SudokuPlayer.exe
+C:\Git\dmu4-csharp\SudokuPlayer\SudokuPlayer\bin\Debug\SudokuPlayer.pdb
+C:\Git\dmu4-csharp\SudokuPlayer\SudokuPlayer\bin\Debug\SudokuLib.dll
+C:\Git\dmu4-csharp\SudokuPlayer\SudokuPlayer\obj\Debug\SudokuPlayer.csprojAssemblyReference.cache
+C:\Git\dmu4-csharp\SudokuPlayer\SudokuPlayer\obj\Debug\CollectionViewerWindow.g.cs
+C:\Git\dmu4-csharp\SudokuPlayer\SudokuPlayer\obj\Debug\MainWindow.g.cs
+C:\Git\dmu4-csharp\SudokuPlayer\SudokuPlayer\obj\Debug\App.g.cs
+C:\Git\dmu4-csharp\SudokuPlayer\SudokuPlayer\obj\Debug\SudokuPlayer_MarkupCompile.cache
+C:\Git\dmu4-csharp\SudokuPlayer\SudokuPlayer\obj\Debug\SudokuPlayer_MarkupCompile.lref
+C:\Git\dmu4-csharp\SudokuPlayer\SudokuPlayer\obj\Debug\CollectionViewerWindow.baml
+C:\Git\dmu4-csharp\SudokuPlayer\SudokuPlayer\obj\Debug\MainWindow.baml
+C:\Git\dmu4-csharp\SudokuPlayer\SudokuPlayer\obj\Debug\SudokuPlayer.g.resources
+C:\Git\dmu4-csharp\SudokuPlayer\SudokuPlayer\obj\Debug\SudokuPlayer.Properties.Resources.resources
+C:\Git\dmu4-csharp\SudokuPlayer\SudokuPlayer\obj\Debug\SudokuPlayer.csproj.GenerateResource.cache
+C:\Git\dmu4-csharp\SudokuPlayer\SudokuPlayer\obj\Debug\SudokuPlayer.csproj.CoreCompileInputs.cache
+C:\Git\dmu4-csharp\SudokuPlayer\SudokuPlayer\obj\Debug\SudokuPlayer.csproj.CopyComplete
+C:\Git\dmu4-csharp\SudokuPlayer\SudokuPlayer\obj\Debug\SudokuPlayer.exe
+C:\Git\dmu4-csharp\SudokuPlayer\SudokuPlayer\obj\Debug\SudokuPlayer.pdb
