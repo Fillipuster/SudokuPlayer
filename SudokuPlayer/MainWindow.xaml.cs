@@ -32,7 +32,8 @@ namespace SudokuPlayer
                 MessageBox.Show(e.StackTrace, "Error", MessageBoxButton.OK, MessageBoxImage.Error);
             }
 
-            LoadSudoku(HumanSudokuFactory.FromString("1...48....5....9....6...3.....57.2..8.3.........9............4167..........2....."));
+            // For easy testing.
+            //LoadSudoku(HumanSudokuFactory.FromString("1...48....5....9....6...3.....57.2..8.3.........9............4167..........2....."));
         }
 
         private bool ShouldColorCellAt(int i, int j)
